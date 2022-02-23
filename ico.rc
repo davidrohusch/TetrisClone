@@ -1,0 +1,7 @@
+#include "rsc.h"
+
+IDR_MAINFRAME       ICON        game.ico
+BLCK_PNG            RCDATA      blck.png
+GM_PNG              RCDATA      gamefield.png
+GM_MUSIC            RCDATA      Tetris_theme.ogg
+GM_FONT             FONT        arial.ttf
