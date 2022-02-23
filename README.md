@@ -12,5 +12,5 @@ I've used Windows' resource file for having an easy way to compile game assets i
 # Release
 If you want to try the game, you can check release page. I've compiled one before I switched from Windows to Linux.
 
-# Declaimer
+# Disclaimer
 This was my very first SDL2 project. The name "Tetris" is licenced by Nintendo and it was used just as placeholder for my personal educational project. 
